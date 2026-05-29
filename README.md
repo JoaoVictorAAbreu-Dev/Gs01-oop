@@ -8,6 +8,19 @@ O projeto simula uma plataforma de monitoramento utilizada em uma estação espa
 
 ---
 
+
+![Demonstração do Sistema](demo.gif)
+
+---
+
+# Integrantes
+
+**Nome**: João Victor Alves de Abreu | **RM**: 564946
+
+**Nome**: Luiz Henrique Barbosa Dias | **RM**: 562399
+
+---
+
 # Objetivo do Projeto
 
 O principal objetivo deste sistema é demonstrar, de forma prática e organizada, a utilização dos conceitos fundamentais de POO por meio de um cenário tecnológico inspirado em sistemas espaciais modernos.
